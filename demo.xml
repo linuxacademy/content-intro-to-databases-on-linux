@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user>
+  <ID>0</ID>
+  <Name>David</Name>
+  <Department>Engineering</Department>
+  <ExpenseCode>200</ExpenseCode>
+</user>
+<user>
+  <ID>1</ID>
+  <Name>Clay</Name>
+  <Department>HR</Department>
+  <ExpenseCode>100</ExpenseCode>
+</user>
+<user>
+  <ID>2</ID>
+  <Name>Sue</Name>
+  <Department>Sales</Department>
+  <ExpenseCode>300</ExpenseCode>
+</user>
+<user>
+  <ID>3</ID>
+  <Name>Betty</Name>
+  <Department>Marketing</Department>
+  <ExpenseCode>400</ExpenseCode>
+</user>
+</users>
